@@ -9,7 +9,7 @@ op('/project1/ig20_iegeekcam/video_display/stream_in').par.url
 rtsp://192.168.1.x/2
 rtsp://192.168.1.x/11
 ```
-![cam1](https://github.com/luisarandas/touchdesigner-ig20-iegeekcam/assets/30077568/cce1a459-8b02-4394-87a5-ec95b0da84be)
+![cam1](https://github.com/luisarandas/touchdesigner-ig20-iegeekcam/assets/30077568/f696d623-999c-4711-a5ef-7e8963f42767)
 
 References:
 
